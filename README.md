@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nachogonzalez
 - 👀 I’m interested in open data gathering and management. Blockchain possibilities.
-- 🌱 I’m currently learning beautiful ways of using data
-- 💞️ I’m looking to collaborate on dapps
+- 🌱 I’m currently learning beautiful ways of using data.
+- 💞️ I’m looking to collaborate on different side projects.
 - 📫 How to reach me ...
 	- :email: email: [nacho.gonzalez@gmail.com](nacho.gonzalez@gmail.com)
 	- :ballot_box_with_check: Twitter: [@nachogonzalezf](https://twitter.com/nachogonzalezf)
